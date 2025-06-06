@@ -1,0 +1,33 @@
+.container {
+  padding: 20px;
+  background: linear-gradient(135deg, #f5f7fa, #BFC9DA);
+  min-height: 100vh;
+}
+
+h1 {
+  color: #1540C1;
+  text-align: center;
+}
+
+.autor {
+  text-align: center;
+}
+
+.botoes-topo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.busca-id {
+  display: flex;
+  gap: 10px;
+}
+
+input {
+  padding: 6px 10px;
+  border: 1px solid #1540C1;
+  border-radius: 4px;
+}
