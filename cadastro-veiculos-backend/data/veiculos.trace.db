@@ -1,3 +1,0 @@
-2025-05-31 18:23:36.953641-03:00 jdbc[3]: exception
-org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VEICULOS" not found (this database is empty); SQL statement:
-insert into veiculos (ano_fabricacao,marca,modelo,placa,quilometragem,id) values (?,?,?,?,?,default) [42104-232]
