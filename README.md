@@ -1,10 +1,11 @@
-API Rest(Java Spring Boot) e Aplicação Web(React) com métodos CRUD de Veículos
-Desenvolvido por Luan Pontes
+# 🚗 API Rest & Aplicação Web - CRUD de Veículos
 
-Projeto Academico
-Instituição: Unifametro
-Curso: Pós de Engenharia de Software
-Disciplina: Arquitetura e Frameworks Web
+Este projeto consiste em uma **API Rest** desenvolvida com **Java Spring Boot** e uma **Aplicação Web** em **React**, ambas implementando operações CRUD de veículos.
 
-OBS: Antes de executar a aplicação react, executar o comando "npm install" para instalar as dependências. 
+## 📌 Desenvolvido por
+**Luan Pontes**  
 
+## 📚 Projeto Acadêmico  
+- **Instituição:** Unifametro  
+- **Curso:** Pós-graduação em Engenharia de Software  
+- **Disciplina:** Arquitetura e Frameworks Web
